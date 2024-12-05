@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Riddhi
 <a href="https://www.linkedin.com/in/riddhi-vekaria-308502226/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction]
@@ -19,7 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Packet Tracer using Wireshark                 | <a href="https://coursera.org/share/14e19ba2a760ccddb99b5013865f4ff3">Detection Lab</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+[Provide tools and break them down into categories.]
 
 ### Network
 <div>
