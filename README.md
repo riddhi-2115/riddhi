@@ -6,12 +6,10 @@
 Certified in cybersecurity with solid skills in threat detection and network security, ready to apply! 🚀
 
 ## Objective
-[Provide Objective]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and  recently completed Google Cybersecurity Certificate, eager to launch a career as a Cybersecurity Analyst, applying robust skills in threat detection and network security. 🚀
 
 ## Skills
-[Provide skills and associated project]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +17,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Packet Tracer using Wireshark                 | <a href="https://coursera.org/share/14e19ba2a760ccddb99b5013865f4ff3">Detection Lab</a>|
 
 ## Tools
-[Provide tools and break them down into categories.]
 
 ### Network
 <div>
